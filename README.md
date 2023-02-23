@@ -1,4 +1,4 @@
-### Under construction
+### Under construction...
 
 <!--
 **UROKO94/UROKO94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
