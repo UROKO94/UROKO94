@@ -1,2 +1,2 @@
-### hard to calculate.
-My computer is Sandy Bridge.
+### Hey!
+My computer is Sandy Bridge!
