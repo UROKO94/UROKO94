@@ -1,2 +1,2 @@
 ### Hey!
-My computer is Sandy Bridge!
+My computer is Sandy Bridge.
